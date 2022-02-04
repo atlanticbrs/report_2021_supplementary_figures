@@ -30,7 +30,7 @@
   <p>2020_ZcTag111_DUML_CEE20_03.jpg</p>
 </details></ul>
 
-<p><a href="https://duke.box.com/v/report2021-cee-21-01">CEE 2021 #1</a> (2020-07-15)</p>
+<p><a href="https://duke.box.com/v/report2021-cee-21-01">CEE 2021 #1</a> (2021-07-30)</p>
 <ul><details>
   <summary><a href="https://duke.box.com/v/report2021-cee20-01-propmod">Propagation Modelling Figures</a></summary>
   <p>01_ZcTag098_DUML for 1315 EDT_14 July_10m.png</p>
@@ -74,7 +74,7 @@
   <summary><a href="https://duke.box.com/v/report2021-cee-21-01">focal_animal_visual_positions_20200715_CEE20_01_ZcTag098_DUML.jpg</a></summary>
 </details></ul>
 
-<p><a href="https://duke.box.com/v/report2020-cee-20-02">CEE 2021 #2</a> (2020-07-30)</p>
+<p><a href="https://duke.box.com/v/report2020-cee-20-02">CEE 2021 #2</a> (2021-09-25)</p>
 <ul><details>
   <summary><a href="https://duke.box.com/v/report2021-cee21-02-propmod">Propagation Modelling Figures</a></summary>
   <p>01_ZcTag099_DUML_27 July_10m.png</p>
