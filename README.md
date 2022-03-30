@@ -11,12 +11,6 @@
 <p><a href='https://duke.box.com/v/atlanticbrs-2021-sup-figs'>Parent Directory for Supplementary Figures</a></p>
 <p><a href='https://duke.box.com/v/southall-etal-2022-final'>Final Report</a></p>
 
-<!-->
-<ul><details>
-  <summary><a href='https://duke.box.com/v/report2021-whole-sattag-tracks'>Satellite tag whole tracks</a></summary>
-</details></ul>
-<!-->
-
 <p><a href="https://duke.box.com/v/report2021-cee-21-01">CEE 2021 #1</a> (2021-07-30)</p>
 <ul><details>
   <summary>Propagation Modelling Figures</summary>
