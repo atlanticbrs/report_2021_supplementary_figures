@@ -11,9 +11,11 @@
 <p><a href='https://duke.box.com/v/atlanticbrs-2021-sup-figs'>Parent Directory for Supplementary Figures</a></p>
 <p><a href='https://duke.box.com/v/southall-etal-2022-final'>Final Report</a></p>
 
+<!-->
 <ul><details>
   <summary><a href='https://duke.box.com/v/report2021-whole-sattag-tracks'>Satellite tag whole tracks</a></summary>
 </details></ul>
+<!-->
 
 <p><a href="https://duke.box.com/v/report2021-cee-21-01">CEE 2021 #1</a> (2021-07-30)</p>
 <ul><details>
@@ -65,7 +67,7 @@
   <p>ZcTag124_201593_cee_21_01_24hr.png</p>
 </details></ul>
 
-<p><a href="https://duke.box.com/v/report2020-cee-20-02">CEE 2021 #2</a> (2021-09-25)</p>
+<p><a href="https://duke.box.com/v/report2020-cee-21-02">CEE 2021 #2</a> (2021-09-25)</p>
 <ul><details>
   <summary>Propagation Modelling Figures</summary>
   <p>2021_23_23 Sept run_10m_START.</p>
@@ -93,7 +95,7 @@
   <p>2021_34_25 Sept late run_900m_START.</p>
 </details>
 <details>
-  <summary>Imputed Tracks Before/During/After CEE/summary>
+  <summary>Imputed Tracks Before/During/After CEE</summary>
   <p>ZcTag122_DUML-21_02_Estimated-Locations-CEE.png</p>
   <p>ZcTag123_DUML-21_02_Estimated-Locations-CEE.png</p>
   <p>ZcTag125_DUML-21_02_Estimated-Locations-CEE.png</p>
